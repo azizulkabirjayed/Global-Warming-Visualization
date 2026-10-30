@@ -19,10 +19,10 @@ Automated web scraping from the Berkeley Earth [station list](https://data.berke
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/14/1.png)
-![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/14/2.png)
-![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/14/3.png)
-![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/14/4.png)
-![Visualization 5](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/14/5.png)
-![Visualization 6](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/14/6.png)
+![Visualization 1](./images/1.png)
+![Visualization 2](./images/2.png)
+![Visualization 3](./images/3.png)
+![Visualization 4](./images/4.png)
+![Visualization 5](./images/5.png)
+![Visualization 6](./images/6.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
